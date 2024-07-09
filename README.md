@@ -1,51 +1,59 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+@@ -4,17 +4,16 @@
 
-## 🚀 Introdução
+4 Este vídeo de 1 minuto apresenta uma vi são rápida e envolvente do potencial e d a aplicação das IAs Generativas na vida cotidiana.
 
-> Woooow! Look at this 👀
+5
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+6
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+##
 
-### Objetivos
+Tecnologias Utilizadas
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+7 IA Generativa ** [ChatGPT]
 
-### Template
+(https://chat.openai.com)** para roteirização e revisão;
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+8 IA Generativa **[D-ID] (https://www.d -id.com)** para sintetização de voz e ge ração de avatar virtual;
 
-## 📒 Descrição
-Breve descrição do seu projeto
+9
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Software **[Adobe Premiere](https:// www.adobe.com/products/premiere.html)**
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+para edição de vídeo.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+7+IA Generativa **copilot** para roteirização e revisão;
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+8+IA Generativa **
 
-### Exemplos e Insigths
+Copilot + Gemini + diversas urls free**
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+10
 
-## Links Interessantes
+##
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Processo de Criação
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+12
+
+-Usei o "ChatGPT" para escrever e revisa ro roteiro do vídeo. O "D-ID" foi essen cial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futur ística ao vídeo. A montagem e edição for am realizadas no Adobe Premiere para gar antir qualidade profissional.
+
+11 +Usei o Copilot para
+
+uma obter base sobre linguagem Java, me smo não tendo conhecimento algum sobre programação, apenas com uso de IA, com o Copilot, Gemini Chatgpt e banco de d ados de imagens sem direitos autorais *
+
+12
+
+13 ## Resultados
+
+15 -0 vídeo é uma cápsula do tempo que le va o espectador a uma jornada rápida pelo mundo das IAs Generativas, des tacando seu potencial transformador
+
+14 +0 vídeo com conteúdo e voz totalment e criadas por Inteligência Artificial
+
+15
+
+17 - [LINK PARA O VÍDEO AQUI]()
+
+16 +[. https://www.dropbox.com/scl/fi /9gg192hbpwabw1mqfvqnd/HnVideoEditor _2024_07_05_080545446.mp4?rlkey= 9w9boxhfx21kjn7sm6rvylwcl&dl=0 ](
+
+)
